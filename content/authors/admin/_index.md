@@ -56,7 +56,7 @@ social:
 
     - icon: linkedin
       icon_pack: fab
-      link: https://www.linkedin.com/in/rizwan486/
+      link: https://www.linkedin.com/in/zarin-tasnim-maisha-4b408b232/
       display:
           header: true
       label: Connect me on Linkedin

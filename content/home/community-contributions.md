@@ -32,7 +32,7 @@ experience:
       description: |
         ![6th Bangladesh Clinical Psychology Conference, 2023](./media/images/6th-Bangladesh-Clinical-Psychology-Conference-2023.jpg)
         Contributed to the success of the conference through team leadership and active participation in various sections. This experience significantly enhanced my knowledge of clinical psychology by providing valuable opportunities to network with renowned psychologists, gain practical insights into the field including ethical considerations, and learn from a range of case studies.
-        
+
         >[📃 **Certificate of Voluntary Contribution**](./media/certificates/certificate-of-voluntary-contribution-6th-bangladesh-clinical-psychology-conference-2023.pdf)
 
     # - title: CEO

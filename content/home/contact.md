@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: rizwan.hasan486@gmail.com
+  email: zarintasnim0077@gmail.com
   phone: false
   address:
     street: 'Agrabad'
@@ -46,7 +46,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: Contact me on Linkedin
-      link: 'https://www.linkedin.com/in/rizwan486/'
+      link: 'https://www.linkedin.com/in/zarin-tasnim-maisha-4b408b232/'
 
 design:
   columns: '2'
