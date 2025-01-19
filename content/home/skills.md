@@ -19,35 +19,36 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-    - description: "The language I love and use in most of the cases"
-      icon: python
-      icon_pack: fab
-      name: Python
-
-    - description: "Using it as the main workstation and also love explore more"
-      icon: linux
-      icon_pack: fab
-      name: Linux
-
-    - description: "Holds my second choice as I’ve recently started to explore more"
-      icon: js-square
-      icon_pack: fab
-      name: Javascript
-
-    - description: "Cloud is the new future and so that I try to use it for deploying my application whenever possible"
-      icon: cloud
+    - description: "Experience in providing therapeutic support and guidance to individuals and groups."
+      icon: hands-helping
       icon_pack: fas
-      name: Microsoft Azure
+      name: Psychological Counseling
 
-    - description: "Having fun with making ML models and got some works published as well"
-      icon: robot
+    - description: "Proficient in administering and interpreting various psychological assessments to evaluate mental health conditions."
+      icon: pen-nib
       icon_pack: fas
-      name: Machine Learning
+      name: Psychological Assessment
 
-    - description: "As a tech enthusiast, it’s also necessary to share knowledge besides gaining"
-      icon: pen
+    - description: "Strong leadership and interpersonal skills with a proven ability to motivate, mentor, and guide teams."
+      icon: users
+      icon_pack: fa
+      name: People Management
+
+    - description: "Highly attentive to detail and able to quickly identify patterns and nuances in behavior and communication."
+      icon: search
       icon_pack: fas
-      name: Technical Writing
+      name: Observant
+
+    - description: "Specialized knowledge and experience in understanding and addressing the unique mental health needs of children."
+      icon: child
+      icon_pack: fa
+      name: Child Psychology
+
+    - description: "Skilled in implementing evidence-based interventions to address a range of mental health concerns."
+      icon: exchange-alt
+      icon_pack: fas
+      name: Psychological Intervention
+
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
