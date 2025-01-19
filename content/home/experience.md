@@ -23,32 +23,56 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-    - title: Software Engineer
-      company: Social27 Inc.
-      company_url: https://social27.com/
-      company_logo: social27
-      location: Remote
-      date_start: "2023-06-01"
+    - title: Trainee Psychologist (Specializing in Autism and Child Development)
+      company: Chattogram Ma O Shishu Hospital
+      company_url: https://www.cmoshbd.org/
+      company_logo: cmoshbd
+      location: Chattagram, Bangladesh
+      date_start: "2024-08-25"
       date_end: false
       description: |2-
         **Responsibilities:**
-        - Investigate and reproduce user‑reported issues across complex systems, including `LLM`, `AI models`, `Azure` services, `ChatGPT`, and `Langchain`.
-        - With my expertise in `Python`, `FastAPI`, `MongoDB`, `Redis`, and `Microsoft SQL Server`, I effectively debug and rectify backend issues to ensure optimal performance and reliability.
-        - Apply innovative solutions to challenges in AI integration, cloud computing on Azure, and the development of scalable systems, ensuring robust functionality and user satisfaction.
+        - Conduct developmental screenings, observe child behaviour, and assist in personalized therapy plans.
+        - Collaborate with multidisciplinary teams to provide holistic care.
+        - Provide counseling and guidance to parents, helping them understand and address their child'sdevelopmental needs effectively.
 
-    - title: Software Engineer
-      company: ClearML
-      company_url: https://clear.ml/
-      company_logo: clearml
+    - title: Co-lead of Operation Team
+      company: Aachol Foundation
+      company_url: https://aacholfoundation.org/
+      company_logo: aacholfoundation
       location: Remote
-      date_start: "2022-02-01"
-      date_end: "2023-07-10"
+      date_start: "2024-02-24"
+      date_end: false
       description: |2-
         **Responsibilities:**
-        - Troubleshoot and resolved issues in the ClearML Python package using `VSCode`, `PyCharm`, `TensorFlow`, `PyTorch`, etc
-        - Built and implemented CI infrastructure using `Bitbucket Pipelines`, including unit and integration tests in `Python`.
-        - Developed technical documentation tools using Docusaurus and `Sphinx`, and created data processing pipelines using `Jenkins` Pipelines.
+        - Communicate effectively with diverse groups, maintaining punctuality and dedication to support the operations team. Manage teams with strong communication skills and responsible behavior.
+        - Demonstrate leadership skills, public communication, and empathetic behavior while workingunder pressure. Excel in teamwork, critical thinking, and problem-solving capabilities.
+        - Regularly attend meetings, adhere to organizational rules, and take responsibility during emergencies.Passionate about mental health and willing to volunteer.
 
+    - title: Human Resource Lead
+      company: "Sunshine: Space for Mental Health"
+      company_url: false
+      company_logo: sunshine
+      location: Remote
+      date_start: "2021-04-01"
+      date_end: "2024-03-30"
+      description: |2-
+        **Responsibilities:**
+        - Joined as a volunteer, and progressed to HR Head over three years, demonstrating patience, punctuality, empathy, and strong skill set.
+        - Gained extensive knowledge and experience in leadership qualities while serving the organization.
+        - Played a key role in enhancing HR practices, contributing to the overall growth and success of the organization.
+
+    - title: Volunteer
+      company: Bondhu
+      company_url: https://www.bondhu-bd.com/
+      company_logo: bondhu
+      location: Remote
+      date_start: "2023-07-01"
+      date_end: "2023-10-30"
+      description: |2-
+        **Responsibilities:**
+        - Volunteered for 4 months, gaining expertise in organizational skills, psychological career guidance, and marketing policies.
+        - Developed communication, human resource management, and technical skills through hands-on experience.
 design:
     columns: "2"
 ---
