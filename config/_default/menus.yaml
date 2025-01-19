@@ -10,9 +10,15 @@ main:
     - name: Experience
       url: "#experience"
       weight: 20
-    - name: Leadership
+    - name: Teamwork
       url: "#teamwork-leadership"
       weight: 30
+    - name: Community Contributions
+      url: "#community-contributions"
+      weight: 40
+    - name: Contact
+      url: "#contact"
+      weight: 50
     # - name: Projects
     #   url: "#projects"
     #   weight: 40
@@ -22,9 +28,6 @@ main:
     # - name: Featured Works
     #   url: "#featured-works"
     #   weight: 60
-    - name: Recommend­ations
-      url: "#recommendations"
-      weight: 40
-    - name: Contact
-      url: "#contact"
-      weight: 50
+    # - name: Recommend­ations
+    #   url: "#recommendations"
+    #   weight: 70
