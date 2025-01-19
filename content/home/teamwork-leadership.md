@@ -22,32 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: Student Ambassadors - Beta
-      company: Microsoft
-      company_url: "https://mvp.microsoft.com/studentambassadors"
-      company_logo: microsoft
-      location: Bangladesh
-      date_start: "2020-05-30"
-      date_end: "2022-04-30"
-      description: false
 
-    - title: Student Ambassadors - Alpha 2
-      company: Microsoft
-      company_url: "https://mvp.microsoft.com/studentambassadors"
-      company_logo: microsoft
-      location: Bangladesh
-      date_start: "2020-05-01"
-      date_end: "2020-05-30"
-      description: false
+    - title: Volunteer
+      company: Bondhu
+      company_url: https://www.bondhu-bd.com/
+      company_logo: bondhu
+      location: false
+      date_start: "2023-07-01"
+      date_end: "2023-10-30"
+      description: |2-
+        **Responsibilities:**
+        - Volunteered for 4 months, gaining expertise in organizational skills, psychological career guidance, and marketing policies.
+        - Developed communication, human resource management, and technical skills through hands-on experience
 
-    - title: Student Ambassadors - Alpha 1
-      company: Microsoft
-      company_url: "https://mvp.microsoft.com/studentambassadors"
-      company_logo: microsoft
-      location: Bangladesh
-      date_start: "2020-04-01"
-      date_end: "2020-04-30"
-      description: false
+        >[📃 **Certificate of Appreciation**](./media/certificates/certificate-of-appreciation-for-bondhu-counseling-and-psychosocial-research-centre-bcprc.pdf)
 
     # - title: CEO
     #   company: GenCoin

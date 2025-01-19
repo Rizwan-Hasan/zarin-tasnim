@@ -61,18 +61,6 @@ experience:
         - Joined as a volunteer, and progressed to HR Head over three years, demonstrating patience, punctuality, empathy, and strong skill set.
         - Gained extensive knowledge and experience in leadership qualities while serving the organization.
         - Played a key role in enhancing HR practices, contributing to the overall growth and success of the organization.
-
-    - title: Volunteer
-      company: Bondhu
-      company_url: https://www.bondhu-bd.com/
-      company_logo: bondhu
-      location: Remote
-      date_start: "2023-07-01"
-      date_end: "2023-10-30"
-      description: |2-
-        **Responsibilities:**
-        - Volunteered for 4 months, gaining expertise in organizational skills, psychological career guidance, and marketing policies.
-        - Developed communication, human resource management, and technical skills through hands-on experience.
 design:
     columns: "2"
 ---
