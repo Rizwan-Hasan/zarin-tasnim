@@ -1,8 +1,7 @@
 services:
-
     deploy:
         image: klakegg/hugo:0.95.0-ext-alpine
-        container_name: rizwan-portfolio-deploy
+        container_name: zarin-portfolio-deploy
         restart: "no"
         command: --gc --minify -d docs
         volumes:
@@ -11,7 +10,7 @@ services:
 
     liveserver:
         image: klakegg/hugo:0.95.0-ext-alpine
-        container_name: rizwan-portfolio-liveserver
+        container_name: zarin-portfolio-liveserver
         restart: "no"
         command: server --disableFastRender
         volumes:
