@@ -18,3 +18,4 @@ services:
             - "./tmp:/tmp"
         ports:
             - "1313:1313"
+        network_mode: "host"
