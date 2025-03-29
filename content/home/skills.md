@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: false
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.

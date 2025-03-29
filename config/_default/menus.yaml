@@ -10,15 +10,18 @@ main:
     - name: Experience
       url: "#experience"
       weight: 20
+    - name: Trainings
+      url: "#trainings-courses"
+      weight: 30
     - name: Teamwork
       url: "#teamwork-leadership"
-      weight: 30
+      weight: 40
     - name: Community Contributions
       url: "#community-contributions"
-      weight: 40
-    - name: Contact
-      url: "#contact"
       weight: 50
+    # - name: Contact
+    #   url: "#contact"
+    #   weight: 60
     # - name: Projects
     #   url: "#projects"
     #   weight: 40

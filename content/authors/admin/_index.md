@@ -6,21 +6,21 @@ title: Zarin Tasnim Maisha
 superuser: true
 
 # Role/position/tagline
-role: "Trainee Psychologist"
+role: "Psychology Graduate<br /><br />Customer Service Executive"
 
 # Organizations/Affiliations to show in About widget
 organizations:
-    - name: Chattogram Maa-Shishu O General Hospital
-      url: https://www.cmoshbd.org/
+    - name: Mutual Trust Bank PLC
+      url: https://www.mutualtrustbank.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Trainee Psychologist"
+bio: ""
 
 # Interests to show in About widget
 interests:
-    - Clinical Psychology
-    - Child Psychology
     - Counseling Psychology
+    - Child Psychology
+    - Clinical Psychology
     - Neurodevelopmental and Psychological Disorders
     - Psychological Research
 
@@ -28,7 +28,7 @@ interests:
 education:
     courses:
         - course: BSc in Psychology
-          institution: National University (Chittagong College)
+          institution: National University Bangladesh
           year: 2022
 
 # Social/Academic Networking
@@ -85,7 +85,5 @@ highlight_name: true
 ---
 
 I am a **Recent Psychology Graduate** with a keen interest in understanding the complexities of human behavior and thought processes. I hold a Bachelor of Science in Psychology from [National University (Chittagong College)](https://ctgcollege.gov.bd/), where I built a strong foundation in psychological theories. My academic journey, combined with hands-on experience as a **Trainee Psychologist** at [Chattogram Ma O Shishu Hospital](https://www.cmoshbd.org/) in **Child Development Center**, has enriched my understanding of mental health dynamics and counseling.
-
-Besides that, I have also completed **Basic Counseling** training at [Bondhu](https://www.bondhu-bd.com/), which enhanced my skills in empathetic listening, effective communication, and applying psychological insights.
 
 {{< icon name="download" pack="fas" >}} **Download my** {{< staticref "media/Curriculum Vitae (CV) - Zarin Tasnim Maisha.pdf" "newtab" >}}Curriculum Vitae (CV){{< /staticref >}}
